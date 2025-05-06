@@ -1,0 +1,2 @@
+This is the first project i have created by following the lessons in "The Odin Project", an online course that is slowly but surely teaching me coding skills.
+This project will consist of a main index page which will have links to a few recipes. Keep in mind that i am just starting out, so the site won't look pretty, compare this project with the next ones to see how much i have improved!!
